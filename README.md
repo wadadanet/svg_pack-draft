@@ -27,7 +27,7 @@
 
 ### SVGの色変更
 
-``` sass
+``` scss
 .svgp path {
   fill: #FF0000;
 }
